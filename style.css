@@ -34,7 +34,7 @@
     background-color: grey;
     width: 1350px;
     height: 100px;
-    bottom:-500px;
+    bottom:-400px;
     display: flex;
 
 }
@@ -51,7 +51,7 @@
 }
 .icon:hover{
     cursor: pointer;
-    opacity: 70%;
+    opacity: 65%;
     transition: 0.5s;
 }
 .navs{
@@ -77,4 +77,26 @@
     padding-right: 20px;
     margin-right: 0px;
 
+}
+.page-mid{
+    width: 1000px;
+    height: 300px;
+    padding-top: 45px;
+    padding-left: 50px;
+    display: flex;
+}
+#boutme{
+    margin-top: 0px;
+
+}
+#cats{
+
+    width: 300px;
+    height: 300px;
+    padding-left: 100px;
+    object-fit: cover;
+}
+#about-me-header{
+    margin-bottom: 0px;
+    padding-left: 50px;
 }
