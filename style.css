@@ -51,7 +51,8 @@
 }
 .icon:hover{
     cursor: pointer;
-    opacity: 75%;
+    opacity: 70%;
+    transition: 0.5s;
 }
 .navs{
     font-family: 'Courier New', Courier, monospace;
