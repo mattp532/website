@@ -62,6 +62,11 @@
     font-size: larger;
     margin-top: 20px;
 }
+.navs:hover{
+    transition: 0.5s;
+    cursor: pointer;
+    background-color: white;
+}
 #write{
     left:0px
 }
