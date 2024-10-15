@@ -3,7 +3,7 @@ body {
     position: absolute;
     margin: 0;
     width: 97vw;
-    padding-top: 5%;
+    padding-top: 10vh;
 }
 .top-bar{
     display: flex;
@@ -92,6 +92,7 @@ body {
 }
 #boutme{
     margin-top: 0px;
+    padding-left: 2rem;
 }
 #cats{
 
