@@ -1,9 +1,7 @@
 
 body {
     background-color: rgb(187, 236, 113);
-    position: absolute;
     margin: 0;
-    width: 97vw;
     padding-top: 10vh;
 }
 .roboto-thin {
@@ -103,7 +101,7 @@ body {
 .leftbox{
     width: 30%;
     padding-left: 1rem;
-    padding-right: 5rem;
+    padding-right: 10rem;
     margin-right: 0px;
 
 }
